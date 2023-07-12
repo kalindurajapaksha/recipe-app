@@ -8,7 +8,7 @@ import {
 } from "react-native";
 import React from "react";
 import { useNavigation } from "@react-navigation/native";
-import MealHighlights from "./MealHighlights";
+import MealHighlights from "../MealHighlights";
 
 const MealItem = ({
   id,
